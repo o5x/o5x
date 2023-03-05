@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @o5x AKA Arrol
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m not especially looking to collaborate
-- 📫 How to reach me ? see on my website if you can find it :) !
+- 👀 I’m interested in programming (I probably wouldn't be here otherwise)
+- 💻 I’m currently working in cybersecurity - Legally Hacking :>
+- 📫 How to reach me ? mmmmh.. you don't :p unless you know me !
